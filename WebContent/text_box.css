@@ -1,0 +1,18 @@
+<
+style>input[type=text] {
+	width: 50%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: 10px solid #555;
+	outline: none;
+}
+
+input[type=text]:focus {
+	background-color: #e4cefb;
+	border: 4px solid #ff8000;
+	border-radius: 5px;
+}
+</
+style
+>
